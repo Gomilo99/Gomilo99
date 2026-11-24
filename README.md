@@ -7,6 +7,10 @@
 
 <br/>
 
+<p align="right">
+  <img src="assets/patamon.gif" width="120" alt="Sprite animado" />
+</p>
+
 ## 👨‍💻 Professional Profile
 
 [🇪🇸 Español](#profile-es) · [🇬🇧 English](#profile-en) · [🇯🇵 日本語](#profile-ja)
