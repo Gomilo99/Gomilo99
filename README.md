@@ -15,7 +15,14 @@
 
 ### 🇬🇧 English
 
-I’m a **Computer Science undergraduate** at **FaCyT, University of Carabobo**. I’m interested in game development and understanding software from the ground up. I mainly work with **Unity and C#**, and also use **C/C++ and Python** in game, systems, and simulation projects.
+I am a Computer Science student with a passion for video game development, low-level systems programming, and machine learning, complemented by knowledge in mathematical simulation and software optimization.
+
+My approach combines a strong academic foundation in computer science with the hands-on creation of interactive, engaging experiences. I actively participate in high-intensity collaborative events, such as international video game development competitions (e.g., Global Game Jam, GameJamPlus).
+
+- 🎓 **Academic Background:** Algorithms and Data Structures, Computer Architecture, Operating Systems, Probability and Network Simulation, and Discrete Mathematics.
+- 🎮 **Video Game Development & Graphics:** Experience with the Unity engine (C#), game mechanics (physics, time manipulation, RPG systems), and an introduction to graphics shader programming (ShaderLab, HLSL).
+- 💡 **Systems & Tools:** Development of high-performance software in C/C++ (cache simulators, console-based games, and a custom-built engine), as well as scripts and analytical models in Python (machine learning, M/M/1 simulations, and desktop utilities).
+- 🌱 **Continuous Growth:** Focused on clean game architecture, rendering pipeline optimization, and the application of machine learning to game dynamics.
 
 <a name="profile-es"></a>
 
