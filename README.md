@@ -13,7 +13,14 @@
 
 <a name="perfil-es"></a>
 
-Estudio la **Licenciatura en Computación** en la **FaCyT de la Universidad de Carabobo**. Me interesa el desarrollo de videojuegos y entender el software desde sus fundamentos. Trabajo principalmente con **Unity y C#**, y también uso **C/C++ y Python** en proyectos de juegos, sistemas y simulación.
+Soy estudiante de la Licenciatura en Computación, apasionado por el desarrollo de videojuegos, la programación de sistemas de bajo nivel y el machine learning con algunos conocimientos en simulación matemática y la optimización de software.
+
+Mi enfoque combina una sólida formación académica en ciencias de la computación con la creación práctica de experiencias interactivas y lúdicas, participando activamente en eventos colaborativos de alta intensidad como Game Jams internacionales (Global Game Jam, GameJamPlus).
+
+- 🎓 **Formación Académica:** Algoritmos y Estructuras de Datos, Arquitectura de Computadores, Sistemas Operativos, Probabilidad & Simulación de Redes, y Matemáticas Discretas.
+- 🎮 **Desarrollo de Videojuegos & Gráficos:** Experiencia en el motor Unity (C#), programación de mecánicas de juego (físicas, manipulación temporal, RPG), y aproximación a shaders gráficos (ShaderLab, HLSL).
+- 💡 **Sistemas & Herramientas:** Desarrollo de software de rendimiento en C++ / C (simuladores de caché, juegos por consola/motor propio), scripts y modelos analíticos en Python (Machine Learning, simulaciones M/M/1 y utilidades de escritorio).
+- 🌱 **Evolución Continua:** Enfocado en la arquitectura de gameplay limpia, optimización de pipeline de renderizado y aplicación de machine learning a dinámicas de juego.
 
 <a name="profile-en"></a>
 
@@ -23,7 +30,19 @@ I’m a **Computer Science undergraduate** at **FaCyT, University of Carabobo**.
 
 **カラボボ大学の科学技術学部（FaCyT）でコンピューティングを専攻しています。** ゲーム開発を中心に、ソフトウェアの仕組みを基礎から理解することに関心があります。主に **Unity と C#** を使い、ゲーム、システム、シミュレーションのプロジェクトで **C/C++ や Python** にも取り組んでいます。
 
-<br/>
+## 🤝 Red Profesional & Contacto
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jesushcastro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jesús_Hernández-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://www.instagram.com/jhcastro.p/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@jhcastro.p-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a> &nbsp;
+  <a href="https://github.com/Gomilo99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Gomilo99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ## 🛠️ Stack Tecnológico
 
@@ -182,16 +201,3 @@ Selección de proyectos en desarrollo de videojuegos, competencias en Game Jams,
 
 <br/>
 
-## 🤝 Red Profesional & Contacto
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jesushcastro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jesús_Hernández-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="https://www.instagram.com/jhcastro.p/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@jhcastro.p-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a> &nbsp;
-  <a href="https://github.com/Gomilo99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Gomilo99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
