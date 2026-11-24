@@ -9,15 +9,19 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Soy estudiante de la Licenciatura en Computación en la **Facultad Experimental de Ciencias y Tecnología (FaCyT) de la Universidad de Carabobo**, apasionado por el **desarrollo de videojuegos (Game Development)**, la programación de sistemas de bajo nivel y el machine learning con algunos conocimientos en simulación matemática y la optimización de software.
+[🇪🇸 Español](#perfil-es) · [🇬🇧 English](#profile-en) · [🇯🇵 日本語](#profile-ja)
 
-Mi enfoque combina una sólida formación académica en ciencias de la computación con la creación práctica de experiencias interactivas y lúdicas, participando activamente en eventos colaborativos de alta intensidad como **Game Jams internacionales** (Global Game Jam, GameJamPlus).
+<a name="perfil-es"></a>
 
-- 🎓 **Formación Académica**: Algoritmos y Estructuras de Datos, Arquitectura de Computadores, Sistemas Operativos, Probabilidad & Simulación de Redes, y Matemáticas Discretas.
-- 🎮 **Desarrollo de Videojuegos & Gráficos**: Experiencia en el motor **Unity (C#)**, programación de mecánicas de juego (físicas, manipulación temporal, RPG), y aproximación a shaders gráficos (**ShaderLab, HLSL**).
-- 💡 **Sistemas & Herramientas**: Desarrollo de software de rendimiento en **C++ / C** (simuladores de caché, juegos por consola/motor propio), scripts y modelos analíticos en **Python** (Machine Learning, simulaciones M/M/1 y utilidades de escritorio).
-- 🌱 **Evolución Continua**: Enfocado en la arquitectura de gameplay limpia, optimización de pipeline de renderizado y aplicación de machine learning a dinámicas de juego.
-- 📫 **Contacto**: Conecta conmigo a través de [LinkedIn](https://www.linkedin.com/in/jesushcastro) o [Instagram](https://www.instagram.com/jhcastro.p/).
+Estudio la **Licenciatura en Computación** en la **FaCyT de la Universidad de Carabobo**. Me interesa el desarrollo de videojuegos y entender el software desde sus fundamentos. Trabajo principalmente con **Unity y C#**, y también uso **C/C++ y Python** en proyectos de juegos, sistemas y simulación.
+
+<a name="profile-en"></a>
+
+I’m a **Computer Science undergraduate** at **FaCyT, University of Carabobo**. I’m interested in game development and understanding software from the ground up. I mainly work with **Unity and C#**, and also use **C/C++ and Python** in game, systems, and simulation projects.
+
+<a name="profile-ja"></a>
+
+**カラボボ大学の科学技術学部（FaCyT）でコンピューティングを専攻しています。** ゲーム開発を中心に、ソフトウェアの仕組みを基礎から理解することに関心があります。主に **Unity と C#** を使い、ゲーム、システム、シミュレーションのプロジェクトで **C/C++ や Python** にも取り組んでいます。
 
 <br/>
 
