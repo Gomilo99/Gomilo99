@@ -7,11 +7,8 @@
 
 <br/>
 
-<p align="right">
-  <img src="assets/patamon.gif" width="120" alt="Sprite animado" />
-</p>
-
 ## 👨‍💻 Professional Profile
+<img src="https://img1.picmix.com/output/pic/normal/9/4/1/8/10678149_ae021.gif" alt="Angemon" width="300" align="right" />
 
 [🇪🇸 Español](#profile-es) · [🇬🇧 English](#profile-en) · [🇯🇵 日本語](#profile-ja)
 
