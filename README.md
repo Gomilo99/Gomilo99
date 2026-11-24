@@ -22,14 +22,6 @@ Mi enfoque combina una sólida formación académica en ciencias de la computaci
 - 💡 **Sistemas & Herramientas:** Desarrollo de software de rendimiento en C++ / C (simuladores de caché, juegos por consola/motor propio), scripts y modelos analíticos en Python (Machine Learning, simulaciones M/M/1 y utilidades de escritorio).
 - 🌱 **Evolución Continua:** Enfocado en la arquitectura de gameplay limpia, optimización de pipeline de renderizado y aplicación de machine learning a dinámicas de juego.
 
-<a name="profile-en"></a>
-
-I’m a **Computer Science undergraduate** at **FaCyT, University of Carabobo**. I’m interested in game development and understanding software from the ground up. I mainly work with **Unity and C#**, and also use **C/C++ and Python** in game, systems, and simulation projects.
-
-<a name="profile-ja"></a>
-
-**カラボボ大学の科学技術学部（FaCyT）でコンピューティングを専攻しています。** ゲーム開発を中心に、ソフトウェアの仕組みを基礎から理解することに関心があります。主に **Unity と C#** を使い、ゲーム、システム、シミュレーションのプロジェクトで **C/C++ や Python** にも取り組んでいます。
-
 ## 🤝 Red Profesional & Contacto
 
 <div align="center">
@@ -201,3 +193,12 @@ Selección de proyectos en desarrollo de videojuegos, competencias en Game Jams,
 
 <br/>
 
+## Profile English
+<a name="profile-en"></a>
+
+I’m a **Computer Science undergraduate** at **FaCyT, University of Carabobo**. I’m interested in game development and understanding software from the ground up. I mainly work with **Unity and C#**, and also use **C/C++ and Python** in game, systems, and simulation projects.
+
+## Profile Japanese
+<a name="profile-ja"></a>
+
+**カラボボ大学の科学技術学部（FaCyT）でコンピューティングを専攻しています。** ゲーム開発を中心に、ソフトウェアの仕組みを基礎から理解することに関心があります。主に **Unity と C#** を使い、ゲーム、システム、シミュレーションのプロジェクトで **C/C++ や Python** にも取り組んでいます。
