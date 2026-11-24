@@ -13,20 +13,26 @@
 
 <a name="profile-en"></a>
 
+### 🇬🇧 English
+
 I’m a **Computer Science undergraduate** at **FaCyT, University of Carabobo**. I’m interested in game development and understanding software from the ground up. I mainly work with **Unity and C#**, and also use **C/C++ and Python** in game, systems, and simulation projects.
 
 <a name="profile-es"></a>
+
+### 🇪🇸 Español
 
 Soy estudiante de la Licenciatura en Computación, apasionado por el desarrollo de videojuegos, la programación de sistemas de bajo nivel y el aprendizaje automático, con algunos conocimientos en simulación matemática y optimización de software.
 
 Mi enfoque combina una sólida formación académica en ciencias de la computación con la creación práctica de experiencias interactivas y lúdicas. Participo activamente en eventos colaborativos de alta intensidad, como competencias internacionales de desarrollo de videojuegos (Global Game Jam, GameJamPlus).
 
-- 🎓 **Academic Background:** Algorithms and Data Structures, Computer Architecture, Operating Systems, Probability and Network Simulation, and Discrete Mathematics.
-- 🎮 **Game Development and Graphics:** Experience with the Unity engine (C#), gameplay mechanics (physics, time manipulation, RPG systems), and introductory graphics shader programming (ShaderLab, HLSL).
-- 💡 **Systems and Tools:** Performance-oriented software development in C/C++ (cache simulators, console games, and a custom engine), as well as Python scripts and analytical models (machine learning, M/M/1 simulations, and desktop utilities).
-- 🌱 **Continuous Growth:** Focused on clean gameplay architecture, rendering pipeline optimization, and applying machine learning to game dynamics.
+- 🎓 **Formación Académica:** Algoritmos y Estructuras de Datos, Arquitectura del Computador, Sistemas Operativos, Probabilidad y Simulación de Redes, y Matemáticas Discretas.
+- 🎮 **Desarrollo de Videojuegos y Gráficos:** Experiencia con el motor Unity (C#), mecánicas de juego (física, manipulación del tiempo, sistemas RPG) e introducción a la programación de shaders gráficos (ShaderLab, HLSL).
+- 💡 **Sistemas y Herramientas:** Desarrollo de software de alto rendimiento en C/C++ (simuladores de caché, juegos de consola y un motor propio), además de scripts y modelos analíticos en Python (aprendizaje automático, simulaciones M/M/1 y utilidades de escritorio).
+- 🌱 **Crecimiento Continuo:** Enfocado en una arquitectura de gameplay limpia, la optimización del pipeline de renderizado y la aplicación del aprendizaje automático a las dinámicas de juego.
 
 <a name="profile-ja"></a>
+
+### 🇯🇵 日本語
 
 **カラボボ大学の科学技術学部（FaCyT）でコンピューティングを専攻しています。** ゲーム開発、低レベルシステムプログラミング、機械学習に関心があり、数理シミュレーションとソフトウェア最適化の知識もあります。
 
