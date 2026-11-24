@@ -50,20 +50,6 @@ Mi enfoque combina una sólida formación académica en ciencias de la computaci
 - 💡 **システムとツール：** C/C++による高性能ソフトウェア開発（キャッシュシミュレーター、コンソールゲーム、自作エンジン）と、Pythonによるスクリプトや分析モデル（機械学習、M/M/1シミュレーション、デスクトップツール）。
 - 🌱 **継続的な成長：** 整理されたゲームプレイアーキテクチャ、レンダリングパイプラインの最適化、ゲームの仕組みへの機械学習の応用に取り組んでいます。
 
-## 🤝 Professional Network and Contact
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jesushcastro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jesús_Hernández-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="https://www.instagram.com/jhcastro.p/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@jhcastro.p-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a> &nbsp;
-  <a href="https://github.com/Gomilo99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Gomilo99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
 ## 🛠️ Technology Stack
 
 <div align="center">
@@ -101,6 +87,20 @@ Mi enfoque combina una sólida formación académica en ciencias de la computaci
 </div>
 
 <br/>
+
+## 🤝 Professional Network and Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jesushcastro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jesús_Hernández-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="https://www.instagram.com/jhcastro.p/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@jhcastro.p-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a> &nbsp;
+  <a href="https://github.com/Gomilo99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Gomilo99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ## 🚀 Featured Projects and Games
 
