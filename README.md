@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Soy estudiante de la Licenciatura en Computación en la **Facultad Experimental de Ciencias y Tecnología (FaCyT) de la Universidad de Carabobo**, apasionado por el **desarrollo de videojuegos (Game Development)**, la programación de sistemas de bajo nivel, simulación matemática y la optimización de software.
+Soy estudiante de la Licenciatura en Computación en la **Facultad Experimental de Ciencias y Tecnología (FaCyT) de la Universidad de Carabobo**, apasionado por el **desarrollo de videojuegos (Game Development)**, la programación de sistemas de bajo nivel y el machine learning con algunos conocimientos en simulación matemática y la optimización de software.
 
 Mi enfoque combina una sólida formación académica en ciencias de la computación con la creación práctica de experiencias interactivas y lúdicas, participando activamente en eventos colaborativos de alta intensidad como **Game Jams internacionales** (Global Game Jam, GameJamPlus).
 
